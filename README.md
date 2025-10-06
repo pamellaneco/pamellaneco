@@ -1,4 +1,4 @@
-# Olá! Eu sou a Pâmella Kyrla  
+# Oie! Eu sou a Pâmella Kyrla  
 
 🎓 Estudante de **Engenharia de Software** na Universidade Federal do Ceará (UFC)  
 💻 Estagiária em **Quality Assurance (QA)**  
