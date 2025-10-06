@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na Universidade Federal do Ceará (UFC)  
 💻 Estagiária em **Quality Assurance (QA)**  
-🌐 Experiência anterior em **desenvolvimento web**, atualmente explorando **testes automatizados** e **boas práticas de qualidade**
+🌐 Experiência anterior de estágio em **desenvolvimento web**, atualmente explorando **testes automatizados** e **boas práticas de qualidade**
 
 ---
 
