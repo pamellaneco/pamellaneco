@@ -9,7 +9,7 @@
 ### O que eu faço
 - Executo **testes manuais** para garantir a qualidade de aplicações web  
 - Atuo em processos **ágil (Scrum + Kanban)** com foco em entrega contínua e colaborativa  
-- Crio e mantenho **testes E2E** com Cypress, voltando-se aos cenários principais da aplicação
+- Crio e mantenho estrutura de **testes E2E** com Cypress, voltando-se aos cenários principais da aplicação
 
 ---
 
